@@ -14,5 +14,5 @@ def link
 end
 
 def all_phrases(catch_phrase)
-  puts catch_phrase
+  puts catch_phrase(catch_phrase)
 end
