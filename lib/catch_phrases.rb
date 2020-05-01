@@ -13,6 +13,8 @@ def link
   puts words
 end
 
-def all_phrases(catch_phrase)
-  puts catch_phrase(catch_phrase)
+def all_phrases
+  mario
+  toadstool
+  link
 end
